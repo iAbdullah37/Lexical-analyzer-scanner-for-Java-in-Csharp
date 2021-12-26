@@ -1,0 +1,14 @@
+C:\Users\Laptop Market\source\repos\Lexical\Lexical\bin\Debug\Lexical.exe.config
+C:\Users\Laptop Market\source\repos\Lexical\Lexical\bin\Debug\Lexical.exe
+C:\Users\Laptop Market\source\repos\Lexical\Lexical\bin\Debug\Lexical.pdb
+C:\Users\Laptop Market\source\repos\Lexical\Lexical\obj\Debug\Lexical.csprojAssemblyReference.cache
+C:\Users\Laptop Market\source\repos\Lexical\Lexical\obj\Debug\Lexical.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Market\source\repos\Lexical\Lexical\obj\Debug\Lexical.exe
+C:\Users\Laptop Market\source\repos\Lexical\Lexical\obj\Debug\Lexical.pdb
+C:\Users\Eslam\Downloads\Lexical\Lexical\bin\Debug\Lexical.exe.config
+C:\Users\Eslam\Downloads\Lexical\Lexical\bin\Debug\Lexical.exe
+C:\Users\Eslam\Downloads\Lexical\Lexical\bin\Debug\Lexical.pdb
+C:\Users\Eslam\Downloads\Lexical\Lexical\obj\Debug\Lexical.csproj.AssemblyReference.cache
+C:\Users\Eslam\Downloads\Lexical\Lexical\obj\Debug\Lexical.csproj.CoreCompileInputs.cache
+C:\Users\Eslam\Downloads\Lexical\Lexical\obj\Debug\Lexical.exe
+C:\Users\Eslam\Downloads\Lexical\Lexical\obj\Debug\Lexical.pdb

@@ -1,0 +1,56 @@
+
+class Test
+{
+abstract
+public static void main(String args[])
+{
+int x= (new) int;
+int b;
+int a=12.9954874f;
+float g=12.3e-10d;
+float rr=2e-3f
+float vv=2e+3;
+if(a==12);
+int yy=0x2938281abcd;
+int as=0b0110101;
+int ii=00123456;
+int hj=123432;
+String xx = " jrdgnierjg\"";
+int x=100;
+String xx1 = " kdfndkf \ ";
+char a='g';
+float x=.0012;
+"mkdfjbiudsjb\dskfbjnf\"jjxvbjx"
+char ch='\u1231'
+"mkdfjbiudsjbdskfbjnf\"jjxvbjx"
+int y=0;
+int uu=null;
+boolean b= true
+/*jsdfbv dsfjvndkj
+
+// sdbcshd\"
+dkfvhd dfkmd
+kdfhvjd 
+*/
+int cldcmsd=1213123;
+/*
+lklajfgj
+*/
+// sdbcshd\"
+""" Stirng jjj = aksdnvjadsv+
+akdsvbadr+
+knajdhfv\\\"
+""""
+
+'\t'
+'\''
+'\"'
+'\t'
+'\\'
+''
+'\1234';
+''
+"ksdvmsdk\\122"
+xa..
++= :: 
+....

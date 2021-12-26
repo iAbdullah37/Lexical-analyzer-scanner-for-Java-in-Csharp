@@ -1,0 +1,28 @@
+C:\Users\Laptop Market\source\repos\Lexical\LexicalGui\bin\Debug\LexicalGui.exe.config
+C:\Users\Laptop Market\source\repos\Lexical\LexicalGui\bin\Debug\LexicalGui.exe
+C:\Users\Laptop Market\source\repos\Lexical\LexicalGui\bin\Debug\LexicalGui.pdb
+C:\Users\Laptop Market\source\repos\Lexical\LexicalGui\obj\Debug\LexicalGui.csprojAssemblyReference.cache
+C:\Users\Laptop Market\source\repos\Lexical\LexicalGui\obj\Debug\LexicalGui.Form1.resources
+C:\Users\Laptop Market\source\repos\Lexical\LexicalGui\obj\Debug\LexicalGui.Properties.Resources.resources
+C:\Users\Laptop Market\source\repos\Lexical\LexicalGui\obj\Debug\LexicalGui.csproj.GenerateResource.cache
+C:\Users\Laptop Market\source\repos\Lexical\LexicalGui\obj\Debug\LexicalGui.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Market\source\repos\Lexical\LexicalGui\obj\Debug\LexicalGui.exe
+C:\Users\Laptop Market\source\repos\Lexical\LexicalGui\obj\Debug\LexicalGui.pdb
+C:\Users\Laptop Market\source\repos\Lexical\LexicalGui\bin\Debug\Lexical.exe
+C:\Users\Laptop Market\source\repos\Lexical\LexicalGui\bin\Debug\Lexical.pdb
+C:\Users\Laptop Market\source\repos\Lexical\LexicalGui\bin\Debug\Lexical.exe.config
+C:\Users\Laptop Market\source\repos\Lexical\LexicalGui\obj\Debug\LexicalGui.csproj.CopyComplete
+C:\Users\Eslam\Downloads\Lexical\LexicalGui\bin\Debug\LexicalGui.exe.config
+C:\Users\Eslam\Downloads\Lexical\LexicalGui\bin\Debug\LexicalGui.exe
+C:\Users\Eslam\Downloads\Lexical\LexicalGui\bin\Debug\LexicalGui.pdb
+C:\Users\Eslam\Downloads\Lexical\LexicalGui\bin\Debug\Lexical.exe
+C:\Users\Eslam\Downloads\Lexical\LexicalGui\bin\Debug\Lexical.pdb
+C:\Users\Eslam\Downloads\Lexical\LexicalGui\bin\Debug\Lexical.exe.config
+C:\Users\Eslam\Downloads\Lexical\LexicalGui\obj\Debug\LexicalGui.csproj.AssemblyReference.cache
+C:\Users\Eslam\Downloads\Lexical\LexicalGui\obj\Debug\LexicalGui.Form1.resources
+C:\Users\Eslam\Downloads\Lexical\LexicalGui\obj\Debug\LexicalGui.Properties.Resources.resources
+C:\Users\Eslam\Downloads\Lexical\LexicalGui\obj\Debug\LexicalGui.csproj.GenerateResource.cache
+C:\Users\Eslam\Downloads\Lexical\LexicalGui\obj\Debug\LexicalGui.csproj.CoreCompileInputs.cache
+C:\Users\Eslam\Downloads\Lexical\LexicalGui\obj\Debug\LexicalGui.csproj.CopyComplete
+C:\Users\Eslam\Downloads\Lexical\LexicalGui\obj\Debug\LexicalGui.exe
+C:\Users\Eslam\Downloads\Lexical\LexicalGui\obj\Debug\LexicalGui.pdb
