@@ -6,3 +6,7 @@ this was a Course Project for my "Compiler Desingn" course in my last year at un
 # SceernShots
 ![Scanner for lexical analyzer Csharp!](Screenshots/lexical.gif)
 
+# TO-DO
+1. Write a Well Documented doc for this code to help edit on it 
+2. upload the Jflex version that i wrote for this project before i implemented this (my own implemntaion) code
+
